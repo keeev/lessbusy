@@ -18,6 +18,8 @@ Contained Files
 * Mixins
 * Reset
 * Typo
+* Variables
+* Responsive
 
 "Roadmap"
 ========
