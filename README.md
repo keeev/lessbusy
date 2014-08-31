@@ -8,7 +8,7 @@ Stylesheet Syntax
 
 You can find all partials in the partials folder:
 
-`/partials/partialname`
+`/partials/{partialname}`
 
 all your partials will be imported into the main.less file.
 
@@ -18,6 +18,8 @@ Contained Files
 * Mixins
 * Reset
 * Typo
+* Variables
+* Responsive
 
 "Roadmap"
 ========
