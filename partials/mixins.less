@@ -1,0 +1,8 @@
+/*convert font size to px and em*/
+
+.font-size(@sizeValue) {
+  @remValue: @sizeValue;
+  @pxValue: (@sizeValue * 10);
+  font-size: ~"@{pxValue}px";
+  font-size: ~"@{remValue}rem";
+}
