@@ -14,3 +14,11 @@
 	-moz-border-radius:    @radius;
 	border-radius:         @radius;
 }
+
+/*animation*/
+
+.animation (@name, @duration: 1ms, @delay: 0, @ease: ease) {
+	-webkit-animation: @name @duration @delay @ease;
+	-moz-animation:    @name @duration @delay @ease;
+	-ms-animation:     @name @duration @delay @ease;
+}	
