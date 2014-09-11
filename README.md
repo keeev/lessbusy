@@ -24,4 +24,3 @@ Contained Files
 "Roadmap"
 ========
 
-I will add some snippets and mixins from time to type for example for responsive images, forms and many more.
